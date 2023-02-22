@@ -1,0 +1,19 @@
+.inputfield_box {
+    display: flex;
+    flex-direction: column;
+}
+
+.if_label {}
+
+.if_input {
+    width: 300px;
+    height: 45px;
+    border: #8e8e8e solid 1px;
+    border-radius: 15px;
+    outline: none;
+    margin: 10px 20px 10px 0;
+}
+
+.suffix {
+    margin: 0;
+}

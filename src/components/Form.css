@@ -1,0 +1,35 @@
+.form {
+    padding: 50px 90px;
+    color: #3a4d3a;
+}
+
+.form_box_head {
+    margin: 30px 0;
+}
+
+.form_box_head1 {
+    margin: 0;
+}
+
+.form_box_head2 {
+    margin: 0;
+}
+
+.form_box_1 {
+    display: flex;
+}
+
+.submit_button {
+    width: 100px;
+    height: 45px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(81, 209, 255);
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.form_button {
+    margin-top: 50px;
+}
